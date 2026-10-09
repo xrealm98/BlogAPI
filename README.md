@@ -23,7 +23,7 @@ API REST para gestión de un blog con autenticación JWT y sistema de roles.
 - Controller → Service → Repository → Entity Framework → SQL Server
 - Separación en capas con DTOs, Mappers e inyección de dependencias.
 
-## Como instalar
+## Cómo instalar
 
 ### Requisitos
 
