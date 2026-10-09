@@ -1,0 +1,31 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Secrets
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
