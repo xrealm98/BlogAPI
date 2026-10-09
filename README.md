@@ -32,7 +32,7 @@ API REST para gestión de un blog con autenticación JWT y sistema de roles.
 
 ### Pasos para instalar el backend
 
-1. Modificar appsettings.example.json a appsettings.json
+1. Renombrar appsettings.example.json a appsettings.json
 2. Editar appsettings.json los valores de DefaultConnection para la coneción con la base de datos y Key para la codificación del token JWT.
 3. Aplicar las migraciones mediante dotnet ef database update
 4. Arrancar la API con dotnet run
